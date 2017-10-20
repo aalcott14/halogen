@@ -12,7 +12,8 @@
   "dependencies": {
     "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
-    "domkit": "0.0.1"
+    "domkit": "0.0.1",
+    "prop-types": "^15.6.0"
   },
   "peerDependencies": {
     "react": "^0.14.8",
