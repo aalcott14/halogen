@@ -10,6 +10,7 @@
     "url": "https://github.com/yuanyan/halogen.git"
   },
   "dependencies": {
+    "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
     "domkit": "0.0.1"
   },

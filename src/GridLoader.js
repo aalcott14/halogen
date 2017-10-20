@@ -131,6 +131,6 @@ class Loader extends React.Component {
     render() {
         return this.renderLoader(this.props.loading);
     }
-});
+};
 
-module.exports = Loader;
+export default Loader;
